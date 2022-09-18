@@ -5,8 +5,7 @@ Arquivo de exemplo para o treinamento de git da Iteris!
 ## Subtítulo
 
 Colocar qualquer texto aqui.
-Colocar qualquer texto aqui.
 
-## Subtítulo
+### Sub-subtítulo
 
-Colocar qualquer texto aqui.
+Mais texto para colocar aqui.
