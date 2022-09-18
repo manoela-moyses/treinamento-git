@@ -14,4 +14,4 @@ Alteração vinda da main
 
 Alteração da develop
 
-criei uma tela de vendas e ela está funcional. Confia.
+Criei uma tela de vendas e ela está funcional. Confia.
