@@ -13,3 +13,5 @@ Mais texto para colocar aqui.
 Alteração vinda da main
 
 Alteração da develop
+
+criei uma tela de vendas e ela está funcional. Confia.
